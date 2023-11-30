@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Privacy Policy for ADccelerator</title>
-</head>
+  </head>
 <body>
   <h1>Privacy Policy for ADccelerator</h1>
   
