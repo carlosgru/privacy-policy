@@ -1,0 +1,33 @@
+Privacy Policy for ADccelerator
+
+Last Updated: 23/11/2023
+
+**Introduction**
+
+Welcome to the Privacy Policy of the ADccelerator extension. This policy outlines our practices regarding the collection, use, and disclosure of information for users of the ADccelerator extension.
+
+**No Collection of Personal Data**
+
+ADccelerator does not collect, store, or share any personal data, including but not limited to names, email addresses, or browsing history. Our extension is designed to enhance the user experience on YouTube by adjusting the playback speed of videos, particularly during advertisements, without collecting any user data.
+
+**Data Usage**
+
+Since ADccelerator does not collect any user data, there is no usage of data other than for the primary functionality of the extension, which is to adjust video playback speed on YouTube.
+
+**Permissions**
+
+The extension requires certain browser permissions to function correctly, which include:
+
+- `activeTab`: To adjust the playback speed of videos in the active tab where YouTube is open.
+- `storage`: To save the user's preferred playback speed setting locally on the user's device.
+- `scripting`: To inject necessary scripts to adjust playback speeds on YouTube videos.
+
+These permissions are strictly for the functionality of the extension and are not used for data collection purposes.
+
+**Changes to This Policy**
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last Updated" date at the top of this policy.
+
+**Contact Us**
+
+If you have any questions about this Privacy Policy, please contact us at carlosgru83@gmail.com.
