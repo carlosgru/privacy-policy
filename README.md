@@ -1,5 +1,3 @@
-# privacy-policy
-Privacy policy for ADccelerator extension
 <!DOCTYPE html>
 <html>
 <head>
